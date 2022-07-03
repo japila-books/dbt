@@ -93,6 +93,9 @@ extra:
 
 nav:
   - Home: index.md
-  - Internals:
+  - Days:
     - Overview: overview.md
     - Day 1: 001.md
+    - Day 2: 002.md
+    - Day 3: 003.md
+    - learning-resources.md
