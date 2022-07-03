@@ -1,4 +1,4 @@
-# {{ book.title }}
+# About dbt
 
 ## Introduction
 
@@ -14,4 +14,4 @@
 
 1. <https://github.com/dbt-labs/dbt-core>
 1. <https://github.com/dbt-labs/dbt-spark>
-2. <https://github.com/databricks/dbt-databricks>
+1. <https://github.com/databricks/dbt-databricks>

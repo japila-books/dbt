@@ -80,7 +80,7 @@ extra:
     provider: google
     property: !ENV GOOGLE_ANALYTICS_KEY
   book:
-    title: dbt
+    title: Demystifying dbt
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/jaceklaskowski
@@ -93,9 +93,9 @@ extra:
 
 nav:
   - Home: index.md
-  - Days:
-    - Overview: overview.md
-    - Day 1: 001.md
-    - Day 2: 002.md
+  - Closer Look:
+    - About dbt: overview.md
+    - 'Day 1: Installing dbt': 001.md
+    - 'Day 2: Configuring profile': 002.md
     - Day 3: 003.md
     - learning-resources.md
