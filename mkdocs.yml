@@ -98,5 +98,6 @@ nav:
     - 'Day 1: Installing dbt': 001.md
     - 'Day 2: Configuring profile': 002.md
     - 'Day 3: sbt-spark plugin': 003.md
-    - Day 4: 004.md
+    - 'Day 4: Spark Thrift Server (and dbt debug)': 004.md
+    - follow-ups.md
     - learning-resources.md
