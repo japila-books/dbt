@@ -97,5 +97,6 @@ nav:
     - 'Day 2: Configuring profile': 002.md
     - 'Day 3: sbt-spark plugin': 003.md
     - 'Day 4: Spark Thrift Server (and dbt debug)': 004.md
+    - 'Day 5: dbt Models': 005.md
     - follow-ups.md
     - learning-resources.md
