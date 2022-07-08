@@ -72,8 +72,6 @@ plugins:
       minify_html: true
   - awesome-pages
   - macros
-  # https://squidfunk.github.io/mkdocs-material/setup/setting-up-tags/
-  - tags
 
 extra:
   analytics:
