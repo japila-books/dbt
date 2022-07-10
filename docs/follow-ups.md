@@ -1,5 +1,6 @@
 # Follow-ups
 
+1. [Databricks partners / dbt Core](https://docs.databricks.com/integrations/prep/dbt.html)
 1. Review [docker-compose.yml](https://github.com/dbt-labs/dbt-spark/blob/main/docker-compose.yml) from `dbt-spark` adapter
     * How are all things composed together?
     * Spark 3.1.1 only?! Why not using the latest 3.3.0?
