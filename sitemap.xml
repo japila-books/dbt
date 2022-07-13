@@ -2,57 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://books.japila.pl/dbt/</loc>
-         <lastmod>2022-07-10</lastmod>
+         <lastmod>2022-07-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://books.japila.pl/dbt/001/</loc>
-         <lastmod>2022-07-10</lastmod>
+         <lastmod>2022-07-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://books.japila.pl/dbt/002/</loc>
-         <lastmod>2022-07-10</lastmod>
+         <lastmod>2022-07-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://books.japila.pl/dbt/003/</loc>
-         <lastmod>2022-07-10</lastmod>
+         <lastmod>2022-07-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://books.japila.pl/dbt/004/</loc>
-         <lastmod>2022-07-10</lastmod>
+         <lastmod>2022-07-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://books.japila.pl/dbt/005/</loc>
-         <lastmod>2022-07-10</lastmod>
+         <lastmod>2022-07-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://books.japila.pl/dbt/006/</loc>
-         <lastmod>2022-07-10</lastmod>
+         <lastmod>2022-07-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://books.japila.pl/dbt/007/</loc>
-         <lastmod>2022-07-10</lastmod>
+         <lastmod>2022-07-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://books.japila.pl/dbt/008/</loc>
+         <lastmod>2022-07-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://books.japila.pl/dbt/follow-ups/</loc>
-         <lastmod>2022-07-10</lastmod>
+         <lastmod>2022-07-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://books.japila.pl/dbt/learning-resources/</loc>
-         <lastmod>2022-07-10</lastmod>
+         <lastmod>2022-07-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://books.japila.pl/dbt/overview/</loc>
-         <lastmod>2022-07-10</lastmod>
+         <lastmod>2022-07-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
